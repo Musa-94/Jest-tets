@@ -1,0 +1,29 @@
+{
+  "name": "jest-tets",
+  "version": "1.0.0",
+  "description": "test project for jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config=./jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musa-94/Jest-tets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musa-94/Jest-tets/issues"
+  },
+  "homepage": "https://github.com/Musa-94/Jest-tets#readme",
+  "dependencies": {
+    "@babel/cli": "7.7.5",
+    "@babel/core": "7.7.4",
+    "@babel/plugin-proposal-class-properties": "7.7.4",
+    "@babel/preset-env": "7.7.6",
+    "jest": "24.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}
